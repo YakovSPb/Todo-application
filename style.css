@@ -1,0 +1,11 @@
+.todoDone {
+	text-decoration: line-through;
+	font-style: italic;
+	color: gray;
+}
+.form-check-label,.btn-outline-primary{
+	margin-right: 10px;
+}
+.btn-group{
+	margin-top: 15px;
+}
